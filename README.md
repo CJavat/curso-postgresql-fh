@@ -1,4 +1,4 @@
-# Curso de `OpenAI - Ejercicios prácticos y asistentes con React + NestJS` con el profesor Fernando Herrera.
+# Curso `SQL De Cero: Tu Guía Práctica Con PostgreSQL` con el profesor Fernando Herrera.
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="300" alt="Nest Logo" /></a>
