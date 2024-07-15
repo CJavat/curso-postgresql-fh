@@ -1,7 +1,7 @@
 # Curso `SQL De Cero: Tu Guía Práctica Con PostgreSQL` con el profesor Fernando Herrera.
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="300" alt="Nest Logo" /></a>
+  <a href="https://www.postgresql.org/" target="blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="300" alt="Postgres Logo" /></a>
 </p>
 
 #### Sección 1 - Introducción al curso
